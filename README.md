@@ -10,6 +10,7 @@ Now-a-days in India there are two types of methods are used for voting. The firs
 - [Architecture](#architecture)
 - [Requirements](#Requirements)
 - [Usage/Workflow](#usage/Workflow)
+- [License](#License)
 
 ## Prerequisites
 
@@ -18,7 +19,13 @@ Before setting up the AMI backup solution, make sure you have the following prer
 - Front - end wen technologies using HTML, CSS, and Bootstrap
 - Machine Learning Algorithm(Local Binary Pattern Histograms) for face recognition and OpenCV which is an open source library for machine learning for creating a infrastructure to vision.
 - For storing data using MySQL and MySQLyog Enterprice for visualize purpose
-- Flak Framework, which is a poweful web framework for creating API's in python 
+- Flak Framework, which is a poweful web framework for creating API's in python
+- Template Name    : Barber X - Barber Shop Template
+- Template Link    : https://htmlcodex.com/barber-shop-template
+- Template License : https://htmlcodex.com/license
+- Template Author  : HTML Codex
+- Author Website   : https://htmlcodex.com
+- About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at (https://htmlcodex.com/about-us)
   
 
 ## Architecture
@@ -58,3 +65,22 @@ allowed
 be added by administrator. So voter can cast their vote by selecting any one of them.
 8. As soon as voter will give vote then voter is not allowed to vote more than once.
 so we can say that a voter can give only one vote.
+
+## License
+All of the creative works by HTML Codex (https://htmlcodex.com) are licensed under a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0).
+
+Legal Attribution
+HTML Codex creates and publishes free HTML website templates, landing page templates, email templates, and snippets. When you download or use our creative works, it will attribute the following conditions.
+
+You are not allowed
+
+  -  You are not allowed to remove the author’s credit link/backlink.
+  -  You are not allowed to sell, resale, rent, lease, license, or sub-license.
+  -  You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
+    
+You are allowed
+
+  - You are allowed to use for personal and commercial purposes.
+  - You are allowed to modify/customize however you like.
+  - You are allowed to convert/port for use for any CMS.
+  - You are allowed to share/distribute under the HTML Codex brand name.
